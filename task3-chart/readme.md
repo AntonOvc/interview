@@ -1,7 +1,7 @@
 ## Task3-charts
 
 1. Initialize React or React Native (Expo or Bare) app
-2. Create a component that draws barchart to represend sales voulume of three items within six month period
+2. Create a component that draws barchart to represent sales volume of three items within six month period
 > [
 >   {
 >     item1: 3,
